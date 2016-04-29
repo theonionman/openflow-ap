@@ -1,0 +1,19 @@
+Package: openflow
+Version: 1.0.0-1
+Depends: libc
+Provides: 
+Source: package/openflow-1.0
+Section: net
+Status: unknown ok not-installed
+Essential: no
+Priority: optional
+Maintainer: Yiannis Yiakoumis (yiannisy@stanford.edu) 
+Architecture: ar71xx
+Installed-Size: 274492
+Description:  This package contains the OPENFLOW userspace implementation.
+ OpenFlow is an architecture for Ethernet switches and 
+ routers, which allows a researcher to experiment 
+ with new functionality in their own network; for example, 
+ to add a new routing protocol, a new management technique, a 
+ novel packet processing algorithm, or even - eventually - 
+ alternatives to IP.
